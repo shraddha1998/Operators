@@ -10,3 +10,7 @@
       printf("value of c= %d",result);
      return 0;
 }
+/*output
+a=7
+result =27
+*/
